@@ -1,0 +1,10 @@
+body{
+    background-color: #9cbbc4;
+}
+a{
+    text-decoration: #0919e3;
+}
+a:hover{
+    color: #00bfa5;
+    font-size: 20px;
+}
